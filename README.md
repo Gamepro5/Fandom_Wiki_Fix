@@ -3,7 +3,7 @@ We can't change the fact that Fandom destroyed all that was holy with Gamepedia 
 
 # How to use
 
-1. Download [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/), a simple extension that lets you put scripts to be executed when you visit a specific page, to modify the web page.
+1. Install [Tampermonkey](https://www.tampermonkey.net/), a simple extension that lets you put scripts to be executed when you visit a specific page, to modify the web page.
 
 2. Paste either the [source code](/source.js) or the [compressed code](/compressed.js), both do the same thing, it's just a lot of cool kids use the harder to read compressed one.
 
