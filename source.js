@@ -36,5 +36,7 @@
     document.getElementsByClassName("wiki-tools__search")[1].style.paddingLeft = "50px";
     document.getElementsByClassName("wiki-tools__search")[1].style.paddingRight = "50px";
 
+    deleteNode(document.getElementById("WikiaBarWrapper"));
+    deleteNode(document.getElementsByClassName("page__right-rail")[0]);
 
 })();
