@@ -1,11 +1,11 @@
 # Fandom_Wiki_Fix
-We can't change the fact that Fandom destroyed all that was holy with Gamepedia wikis, but we can try. I wrote this Tampermonkey script to try to at least make the wikis Usable again.
+We can't change the fact that Fandom destroyed all that was holy with Gamepedia wikis, but we can try. I wrote this Tampermonkey script to try to at least make the wikis usable again.
 
 # How to use
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/), a simple extension that lets you put scripts to be executed when you visit a specific page, to modify the web page.
 
-2. Paste either the [source code](/source.js) or the [compressed code](/compressed.js), both do the same thing, it's just a lot of cool kids use the harder to read compressed one.
+2. Simply click [here](/compressed.user.js) and Tampermonkey will prompt you to install it.
 
 ... and you're done!
 
