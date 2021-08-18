@@ -5,7 +5,7 @@ We can't change the fact that Fandom destroyed all that was holy with Gamepedia 
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/), a simple extension that lets you put scripts to be executed when you visit a specific page, to modify the web page.
 
-2. Simply click [here](/compressed.user.js) and Tampermonkey will prompt you to install it.
+2. Simply click [here](https://github.com/Gamepro5/Fandom_Wiki_Fix/raw/main/compressed.user.js) and Tampermonkey will prompt you to install it.
 
 ... and you're done!
 
